@@ -21,7 +21,7 @@ We'll use a Docker repository to store & pull the web api image. To keep it simp
 
 While you're waiting for your cluster...
 
-* Check out the todo app [here](https://github.com/us-learn-and-devops/2021_07_07/todoapi). It's a REST API that stores a todo list.
+* Check out the todo app [here](https://github.com/us-learn-and-devops/2021_07_07/tree/master/todoapi). It's a REST API that stores a todo list.
 
   * Note that the server is configured to listen on port 8080 by default. (This will be relevant both now, if you want to try running it locally, and later when we deploy to k8s.)
 
